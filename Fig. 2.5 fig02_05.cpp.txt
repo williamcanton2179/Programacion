@@ -1,0 +1,22 @@
+// Fig. 2.5: fig02_05.cpp
+// Leer dos enteros y mostrar su suma.
+#include <iostream>
+
+int main()
+{
+    int entero1;
+    int entero2;
+    int suma;
+
+    std::cout << "Escriba el primer entero: ";
+    std::cin >> entero1;
+
+    std::cout << "Escriba el segundo entero: ";
+    std::cin >> entero2;
+
+    suma = entero1 + entero2;
+
+    std::cout << "La suma es " << suma << std::endl;
+
+    return 0;
+}

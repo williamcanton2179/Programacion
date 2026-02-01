@@ -1,0 +1,17 @@
+// Fig. 2.6: fig02_06.cpp
+// Uso de cin y cout.
+#include <iostream>
+
+int main()
+{
+    int numero1;
+    int numero2;
+
+    std::cout << "Escriba dos enteros: ";
+    std::cin >> numero1 >> numero2;
+
+    std::cout << "Usted escribió: "
+              << numero1 << " y " << numero2 << std::endl;
+
+    return 0;
+}

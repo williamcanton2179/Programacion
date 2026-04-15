@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1775664116 source:c:\users\meh21\onedrive\escritorio\programacion\programacion\ejerciciosc++\librerias\uwu\main.cpp
+	"torneo.h"
+	<time.h>
+
+1775664221 source:c:\users\meh21\onedrive\escritorio\programacion\programacion\ejerciciosc++\librerias\uwu\src\torneo.cpp
+	"torneo.h"
+	<stdlib.h>
+	<iostream>
+	<time.h>
+
+1775665671 c:\users\meh21\onedrive\escritorio\programacion\programacion\ejerciciosc++\librerias\uwu\include\torneo.h
+	<iostream>
+	<iomanip>
+

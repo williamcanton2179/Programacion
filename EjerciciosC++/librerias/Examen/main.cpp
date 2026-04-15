@@ -1,7 +1,7 @@
 #include "torneo.h"
 #include <time.h>
 #include <string.h>
-
+//Nombres de equipos y valores
 int main()
 {
     srand(time(NULL));

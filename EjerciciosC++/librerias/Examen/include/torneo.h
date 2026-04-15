@@ -7,7 +7,7 @@ using namespace std;
 
 #define NUMERO_EQUIPOS 8
 #define DATOS 4
-
+//clases
 class Torneo
 {
 public:

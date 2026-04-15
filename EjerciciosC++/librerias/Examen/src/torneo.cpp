@@ -1,6 +1,6 @@
 #include "torneo.h"
 #include <stdlib.h>
-
+//Etiquetas del programa
 int Torneo::aleatorio(int min, int max)
 {
     return min + rand() % (max - min + 1);

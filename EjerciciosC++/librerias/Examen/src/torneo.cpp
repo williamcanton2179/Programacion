@@ -1,6 +1,7 @@
 #include "torneo.h"
 #include <stdlib.h>
 //Etiquetas del programa
+//William David Canton Fernandez - 9959 25 8558
 int Torneo::aleatorio(int min, int max)
 {
     return min + rand() % (max - min + 1);
@@ -40,7 +41,7 @@ void Torneo::simular()
         }
     }
 }
-
+//imprime los datos que iran en la tabla
 void Torneo::imprimir()
 {
     cout << "\nTABLA DE POSICIONES\n";

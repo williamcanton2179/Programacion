@@ -2,6 +2,7 @@
 #include <time.h>
 #include <string.h>
 //Nombres de equipos y valores
+//William David Canton Fernandez - 9959 25 8558
 int main()
 {
     srand(time(NULL));

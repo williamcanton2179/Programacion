@@ -8,6 +8,7 @@ using namespace std;
 #define NUMERO_EQUIPOS 8
 #define DATOS 4
 //clases
+//William David Canton Fernandez - 9959 25 8558
 class Torneo
 {
 public:

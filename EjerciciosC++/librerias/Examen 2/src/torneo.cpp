@@ -1,5 +1,6 @@
 #include "torneo.h"
 #include <stdlib.h>
+//Ejecucion de todo el programa
 
 int Torneo::aleatorio(int min, int max)
 {

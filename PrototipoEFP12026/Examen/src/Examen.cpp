@@ -1,4 +1,5 @@
-#include "Alumnos.h"
+//William Canton-9959258558
+#include "Examen.h"
 #include <iostream>
 #include <fstream>
 
@@ -14,33 +15,33 @@ void registrarBitacora(string accion) {
 
 void registrarAlumno() {
     Alumno nuevo;
-    cout << "\n--- REGISTRAR ALUMNO ---" << endl;
+    cout << "\n--- REGISTRAR EMPLEADO ---" << endl;
     cout << "Usuario: "; cin >> nuevo.usuario;
     cout << "Contrasena: "; cin >> nuevo.contrasena;
     cout << "Correo: "; cin >> nuevo.correo;
 
-    ofstream archivoAlumnos("alumnos.txt", ios::app);
+    ofstream archivoAlumnos("Empleados.txt", ios::app);
     if (archivoAlumnos.is_open()) {
         archivoAlumnos << nuevo.usuario << " " << nuevo.contrasena << " " << nuevo.correo << endl;
         archivoAlumnos.close();
-        cout << "¡Alumno guardado con exito!" << endl;
-        registrarBitacora("Registro al alumno: " + nuevo.usuario);
+        cout << "¡Empleado guardado con exito!" << endl;
+        registrarBitacora("Registro al Empleado: " + nuevo.usuario);
     }
 }
 
 void mostrarAlumnos() {
-    ifstream archivoAlumnos("alumnos.txt");
+    ifstream archivoAlumnos("Empleados.txt");
     string usuario, contrasena, correo;
-    cout << "\n--- LISTA DE ALUMNOS ---" << endl;
+    cout << "\n--- LISTA DE EMPLEADOS ---" << endl;
     while (archivoAlumnos >> usuario >> contrasena >> correo) {
         cout << "Usuario: " << usuario << " | Correo: " << correo << endl;
     }
     archivoAlumnos.close();
-    registrarBitacora("Consulto la lista de alumnos.");
+    registrarBitacora("Consulto la lista de Empleados.");
 }
 
 void modificarOEliminarAlumno(string usuarioBuscar, bool buscarParaEliminar) {
-    ifstream archivoOriginal("alumnos.txt");
+    ifstream archivoOriginal("Empleados.txt");
     ofstream archivoTemporal("temporal.txt");
     string usuario, contrasena, correo;
     bool encontrado = false;
@@ -49,15 +50,15 @@ void modificarOEliminarAlumno(string usuarioBuscar, bool buscarParaEliminar) {
         if (usuario == usuarioBuscar) {
             encontrado = true;
             if (buscarParaEliminar) {
-                cout << "¡Alumno eliminado!" << endl;
-                registrarBitacora("Elimino al alumno: " + usuarioBuscar);
+                cout << "¡Empleado eliminado!" << endl;
+                registrarBitacora("Elimino al empleado: " + usuarioBuscar);
             } else {
                 string nuevaClave, nuevoCorreo;
                 cout << "Nueva contrasena: "; cin >> nuevaClave;
                 cout << "Nuevo correo: "; cin >> nuevoCorreo;
                 archivoTemporal << usuario << " " << nuevaClave << " " << nuevoCorreo << endl;
                 cout << "¡Modificado con exito!" << endl;
-                registrarBitacora("Modifico al alumno: " + usuarioBuscar);
+                registrarBitacora("Modifico al empleado: " + usuarioBuscar);
             }
         } else {
             archivoTemporal << usuario << " " << contrasena << " " << correo << endl;
@@ -65,8 +66,8 @@ void modificarOEliminarAlumno(string usuarioBuscar, bool buscarParaEliminar) {
     }
     archivoOriginal.close();
     archivoTemporal.close();
-    remove("alumnos.txt");
-    rename("temporal.txt", "alumnos.txt");
+    remove("Empleados.txt");
+    rename("temporal.txt", "Empleados.txt");
 
-    if (!encontrado) cout << "Alumno no encontrado." << endl;
+    if (!encontrado) cout << "Empleado no encontrado." << endl;
 }

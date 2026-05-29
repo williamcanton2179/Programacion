@@ -1,0 +1,36 @@
+271201b Merge pull request #4 from williamcanton2179/RamaArchivotxt-9959258558
+93d936f Archivo txt generado de empleados registrados
+7571cf4 Merge pull request #3 from williamcanton2179/RamaCreacionEmpleado-9959258558
+4bf434c Modificacion de menu crud
+afef334 Merge pull request #2 from williamcanton2179/RamaCRUD_CatalogoX-9959258558
+e2ee3f8 Creacion de menu general
+80632b0 Merge pull request #1 from williamcanton2179/RamaMenuGeneral-9959258558
+30aa841 RamaGeneral-9959258558
+69a069a final
+497dca6 Log
+058024a Renombrar proyecto
+8349cf4 modificacion de .h
+d309776 Modificacion de main.cpp
+b2d1b8e informacion del torneo.h
+8f05857 Duplicacion de archivos
+f4c01c8 documentacion de archivo torneo
+b3ccbd3 Re subida de archivos
+57d8235 Creacion de carpetadel examen
+3ffed54 Creacion de carpeta
+f7c48b6 Subida sin archivo pesado
+f11f2b4 Matrices y librerias
+4021b1b Subiendo archivos
+4dff6c1 se me clonaron todas las carpetas y ando resubiendo todo
+93a803d Capitulo 3 creo
+a669b65 torneo
+9efd806 bloc de notas a programas en conjunto
+8c0b709 de bloc de notas a codigos
+917638c tarea par
+357d10b tareas
+50bd244 Trabajo grupal
+074e8b3 enviando archivos aun
+e76da8e enviando archivos aun
+75a7f08 imagenes temporales
+e05e417 Add files via upload
+d8253ac Create fig02_01.cpp
+a86e3c8 Initial commit

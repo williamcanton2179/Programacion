@@ -1,2 +1,8 @@
 ACCION: Registro al Empleado: Arnulfo
 ACCION: Consulto la lista de Empleados.
+ACCION: Registro al Empleado: mauricio
+ACCION: Consulto la lista de Empleados.
+ACCION: Modifico al empleado: Arnulfo
+ACCION: Consulto la lista de Empleados.
+ACCION: Elimino al empleado: Arnulfo
+ACCION: Consulto la lista de Empleados.

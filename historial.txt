@@ -1,0 +1,227 @@
+commit 271201b2c846152a70b87c603c23cf8695c7e510
+Merge: 7571cf4 93d936f
+Author: williamcanton2179 <williamcanton2179@gmail.com>
+Date:   Fri May 29 10:24:20 2026 -0600
+
+    Merge pull request #4 from williamcanton2179/RamaArchivotxt-9959258558
+    
+    Archivo txt generado de empleados registrados-9959258558
+
+commit 93d936f9de46de4f940ad09f14f023447d8b8e97
+Author: William Canton <williamcanton2179@gmail.com>
+Date:   Fri May 29 10:22:58 2026 -0600
+
+    Archivo txt generado de empleados registrados
+
+commit 7571cf4809ec072dedf7a72df6291b7ebaf84dad
+Merge: afef334 4bf434c
+Author: williamcanton2179 <williamcanton2179@gmail.com>
+Date:   Fri May 29 10:21:04 2026 -0600
+
+    Merge pull request #3 from williamcanton2179/RamaCreacionEmpleado-9959258558
+    
+    Modificacion de menu crud-9959258558
+
+commit 4bf434c1c0451cec56642387e9305940e829d802
+Author: William Canton <williamcanton2179@gmail.com>
+Date:   Fri May 29 10:20:14 2026 -0600
+
+    Modificacion de menu crud
+
+commit afef334b68652c89644ed83378d7c03ce63e4980
+Merge: 80632b0 e2ee3f8
+Author: williamcanton2179 <williamcanton2179@gmail.com>
+Date:   Fri May 29 10:13:49 2026 -0600
+
+    Merge pull request #2 from williamcanton2179/RamaCRUD_CatalogoX-9959258558
+    
+    Creacion de menu general-9959258558
+
+commit e2ee3f880375e71cb3fe1378831569089b2fe594
+Author: William Canton <williamcanton2179@gmail.com>
+Date:   Fri May 29 10:12:45 2026 -0600
+
+    Creacion de menu general
+
+commit 80632b0f4cc871e7023f1a10249f110781fbead3
+Merge: 69a069a 30aa841
+Author: williamcanton2179 <williamcanton2179@gmail.com>
+Date:   Fri May 29 09:52:08 2026 -0600
+
+    Merge pull request #1 from williamcanton2179/RamaMenuGeneral-9959258558
+    
+    RamaGeneral-9959258558
+
+commit 30aa84106e2c2248fc9697b695f7c5a097bda25c
+Author: William Canton <williamcanton2179@gmail.com>
+Date:   Fri May 29 09:47:23 2026 -0600
+
+    RamaGeneral-9959258558
+
+commit 69a069af4091b444a002f4ac5adc3118b7ab446e
+Author: William Canton <williamcanton2179@gmail.com>
+Date:   Wed Apr 15 10:18:19 2026 -0600
+
+    final
+
+commit 497dca61bd5b76aa75a49ee1aa7203c0641699b9
+Author: William Canton <williamcanton2179@gmail.com>
+Date:   Wed Apr 15 10:13:08 2026 -0600
+
+    Log
+
+commit 058024a0f29a585d2e7d24f095a05ec129bc18cb
+Author: William Canton <williamcanton2179@gmail.com>
+Date:   Wed Apr 15 10:09:48 2026 -0600
+
+    Renombrar proyecto
+
+commit 8349cf41c90f421e238fb018f7d5ebffe834b062
+Author: William Canton <williamcanton2179@gmail.com>
+Date:   Wed Apr 15 10:08:28 2026 -0600
+
+    modificacion de .h
+
+commit d309776b57e307fa9ec23f59479bd7846cdf59df
+Author: William Canton <williamcanton2179@gmail.com>
+Date:   Wed Apr 15 10:07:36 2026 -0600
+
+    Modificacion de main.cpp
+
+commit b2d1b8e0e4d6762fc77026c902e8c17599c8772a
+Author: William Canton <williamcanton2179@gmail.com>
+Date:   Wed Apr 15 10:05:50 2026 -0600
+
+    informacion del torneo.h
+
+commit 8f05857acf53407408733caf2ff48a4f1e15f5a7
+Author: William Canton <williamcanton2179@gmail.com>
+Date:   Wed Apr 15 10:04:18 2026 -0600
+
+    Duplicacion de archivos
+
+commit f4c01c8ddd813c9a4176ba7df45fcef93fb03a04
+Author: William Canton <williamcanton2179@gmail.com>
+Date:   Wed Apr 15 10:02:42 2026 -0600
+
+    documentacion de archivo torneo
+
+commit b3ccbd3f3b6671f2e8aedb6f6f92f32ba2066f49
+Author: William Canton <williamcanton2179@gmail.com>
+Date:   Wed Apr 15 09:57:57 2026 -0600
+
+    Re subida de archivos
+
+commit 57d8235aeeab0011a7650fe2225f0027af385531
+Author: William Canton <williamcanton2179@gmail.com>
+Date:   Wed Apr 15 09:55:00 2026 -0600
+
+    Creacion de carpetadel examen
+
+commit 3ffed54c7e40e04e40a976ec50c8482ce2b7d843
+Author: William Canton <williamcanton2179@gmail.com>
+Date:   Wed Apr 15 09:47:57 2026 -0600
+
+    Creacion de carpeta
+
+commit f7c48b64a4e5e346d1fe8e696f1872d7b367b74b
+Author: William Canton <williamcanton2179@gmail.com>
+Date:   Sat Apr 11 12:13:41 2026 -0600
+
+    Subida sin archivo pesado
+
+commit f11f2b4a3b6e7536179d3d2e9f1083995a7604dc
+Author: William Canton <williamcanton2179@gmail.com>
+Date:   Sat Apr 11 12:00:59 2026 -0600
+
+    Matrices y librerias
+
+commit 4021b1b0fc9f5d4a6323474dbaf20ccfbf3683c2
+Author: William Canton <williamcanton2179@gmail.com>
+Date:   Sat Apr 11 11:23:47 2026 -0600
+
+    Subiendo archivos
+
+commit 4dff6c150413e98b50328c78227891d6aa56071b
+Author: William Canton <williamcanton2179@gmail.com>
+Date:   Sun Mar 22 15:38:16 2026 -0600
+
+    se me clonaron todas las carpetas y ando resubiendo todo
+
+commit 93a803d0da0e4d1f22ec171f328953fa52307c00
+Author: William Canton <williamcanton2179@gmail.com>
+Date:   Sun Mar 22 15:35:42 2026 -0600
+
+    Capitulo 3 creo
+
+commit a669b658e5de33002d2bd9aa44b6a110c6deb1b3
+Author: William Canton <williamcanton2179@gmail.com>
+Date:   Thu Mar 5 11:11:33 2026 -0600
+
+    torneo
+
+commit 9efd8062ece95111197860e0fdd127fc6306ff26
+Author: William Canton <williamcanton2179@gmail.com>
+Date:   Tue Feb 24 22:35:01 2026 -0600
+
+    bloc de notas a programas en conjunto
+
+commit 8c0b709e80f5aeb6692d0b12782949571e192131
+Author: William Canton <williamcanton2179@gmail.com>
+Date:   Sun Feb 22 21:37:01 2026 -0600
+
+    de bloc de notas a codigos
+
+commit 917638c407b468d194594c4ff8b276b2a25a1e99
+Author: William Canton <williamcanton2179@gmail.com>
+Date:   Sat Feb 14 09:12:00 2026 -0600
+
+    tarea par
+
+commit 357d10bc389b2b44f71b2ee4295c8bd67f195571
+Author: William Canton <williamcanton2179@gmail.com>
+Date:   Sun Feb 8 13:13:39 2026 -0600
+
+    tareas
+
+commit 50bd24488ee0d52296d56e21a01aa765bbb91f9b
+Author: William Canton <williamcanton2179@gmail.com>
+Date:   Sun Feb 8 12:45:00 2026 -0600
+
+    Trabajo grupal
+
+commit 074e8b3184188ea64f9484c0a5afa54471dc9d63
+Author: William Canton <williamcanton2179@gmail.com>
+Date:   Mon Feb 2 14:20:06 2026 -0600
+
+    enviando archivos aun
+
+commit e76da8ea17b84c7aee75bf52a095f842a1ac2c1e
+Author: William Canton <williamcanton2179@gmail.com>
+Date:   Mon Feb 2 09:58:03 2026 -0600
+
+    enviando archivos aun
+
+commit 75a7f086a6f5e5eafd8c30c3685b0d8108f72fe5
+Author: William Canton <williamcanton2179@gmail.com>
+Date:   Mon Feb 2 09:41:31 2026 -0600
+
+    imagenes temporales
+
+commit e05e4170bbe6a1cb788fbff941383d056bc219ae
+Author: williamcanton2179 <williamcanton2179@gmail.com>
+Date:   Sat Jan 31 23:21:55 2026 -0600
+
+    Add files via upload
+
+commit d8253ac284505d3dc8a3e1f1a47b93d8d3a363be
+Author: williamcanton2179 <williamcanton2179@gmail.com>
+Date:   Sat Jan 31 23:19:13 2026 -0600
+
+    Create fig02_01.cpp
+
+commit a86e3c816c1a6cd7f2fbe222c1e6f3895fa0e5c9
+Author: williamcanton2179 <williamcanton2179@gmail.com>
+Date:   Tue Jan 27 16:13:14 2026 -0600
+
+    Initial commit

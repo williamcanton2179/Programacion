@@ -1,5 +1,6 @@
+//William Canton-9959258558
 #include <iostream>
-#include "Alumno.h" // Importamos nuestra propia librería
+#include "Examen.h"
 
 using namespace std;
 
@@ -9,17 +10,17 @@ int main() {
 
     do {
         cout << "\n===== BIENVENIDO AL CRUD =====" << endl;
-        cout << "1. Registrar Alumno" << endl;
-        cout << "2. Mostrar Alumnos" << endl;
-        cout << "3. Modificar Alumno" << endl;
-        cout << "4. Eliminar Alumno" << endl;
+        cout << "1. Registrar Empleado" << endl;
+        cout << "2. Mostrar Empleados" << endl;
+        cout << "3. Modificar Empleados" << endl;
+        cout << "4. Eliminar Empleado" << endl;
         cout << "5. Salir" << endl;
         cout << "Seleccione una opcion: ";
         cin >> opcion;
 
         switch (opcion) {
             case 1:
-                registrarAlumno(); // Llamamos a la función de la librería
+                registrarAlumno();
                 break;
             case 2:
                 mostrarAlumnos();

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1780069256 source:c:\users\meh21\onedrive\escritorio\programacion\programacion\ramacontenedor0901170301\examen\src\examen.cpp
+	"Examen.h"
+	<iostream>
+	<fstream>
+
+1780069223 c:\users\meh21\onedrive\escritorio\programacion\programacion\ramacontenedor0901170301\examen\include\examen.h
+	<string>
+
+1780069345 source:c:\users\meh21\onedrive\escritorio\programacion\programacion\ramacontenedor0901170301\examen\main.cpp
+	<iostream>
+	"Examen.h"
+

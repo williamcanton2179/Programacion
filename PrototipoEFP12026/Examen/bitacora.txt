@@ -1,0 +1,2 @@
+ACCION: Registro al Empleado: Arnulfo
+ACCION: Consulto la lista de Empleados.
